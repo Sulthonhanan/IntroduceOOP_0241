@@ -17,7 +17,7 @@ void printdata(){
 }
 };
 
-int main() {
+int main() {  // panggil variabel
     Mahasiswa mhs;
     mhs.nim = 0241;
     mhs.nama = "Hanan";
