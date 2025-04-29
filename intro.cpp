@@ -18,6 +18,11 @@ void printdata(){
 };
 
 int main() {
-   
+    Mahasiswa mhs;
+    mhs.nim = 0241;
+    mhs.nama = "Hanan";
+    mhs.nilai = 100;
+
+    mhs.printdata();
 
 };
